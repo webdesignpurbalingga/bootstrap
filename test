@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Rekap Pencapaian Mingguan</title>
+</head>
+<body>
+	<a href="form_tambah.php">+ Tambah Anggota</a>
+</body>
+</html>
